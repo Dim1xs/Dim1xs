@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dim1xs&theme=radical) 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dim1xs)
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=Dim1xs"/>
