@@ -1,5 +1,5 @@
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dim1xs&theme=discord_old_blurplel) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dim1xs&theme=darkl) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dim1xs&layout=donut&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
